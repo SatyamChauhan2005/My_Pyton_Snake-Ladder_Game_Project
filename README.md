@@ -11,7 +11,9 @@ Welcome to my classic Snake and Ladder game built with Python & Kivy! 🐍🎉 C
 🚫 Dice button disables after someone wins
 🎨 Beautiful backgrounds & player boxes with distinct colors
 [▶️ Watch the demo video](https://raw.githubusercontent.com/SatyamChauhan2005/My_Pyton_Snake-Ladder_Game_Project/main/Snake%26Ladder.mp4)
-[![▶️ Watch the demo video](images/demo.gif)](https://raw.githubusercontent.com/SatyamChauhan2005/My_Pyton_Snake-Ladder_Game_Project/main/Snake%26Ladder.mp4)
+[![▶️ Watch the demo video](images/demo.gif)](https://raw.githubusercontent.com/SatyamChauhan2005/My_Pyton_Snake-Ladder_Game_Project/main/Snake%26Ladder.mp4)<br>
+<a href="https://github.com/SatyamChauhan2005/My_Pyton_Snake-Ladder_Game_Project/blob/main/SSSS.png"><br>
+![View Game Result](https://github.com/SatyamChauhan2005/My_Pyton_Snake-Ladder_Game_Project/blob/main/SSSS.png)
 
 
 
